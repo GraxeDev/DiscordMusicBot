@@ -23,6 +23,6 @@ If you have any coding issues with this bot, please join and ask for help! (Or j
 
 Contributions are always welcomed :D
 
-> **Note:** Contributions are not accepted in the master branch. If you have made a contribution just our discord server.
+> **Note:** Contributions are not accepted in the master branch. If you have made a contribution just join our discord server and open a ticket!
 
 Made with :heart: and discord.py
