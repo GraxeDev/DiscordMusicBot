@@ -4,7 +4,7 @@
 ## 👀 [Discord Server](https://discord.gg/rHksNbU8Hg)
 Join today!
 
-## ✨Latest Updates
+## ✨ Latest Updates
 Fixed minor bugs!
 
 ## 🚧 Warning
