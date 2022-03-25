@@ -1,40 +1,42 @@
-## Cade Legacy Information
+<h1 align="center">Discord Music Bot </h1>
+<p align="center">Discord Server</p>(https://discord.gg/rHksNbU8Hg)
 
-Cade is a discord music bot with crystal-clear Audio, that's free, 24/7! - But the older version
-## Commands
+## ✨Latest Updates
+Fixed minor bugs!
 
-The commands are simple. We have, from the start, decided to use Slash Commands, because we didn't want to apply message intents (See, we're keeping up with progress!)
+## 🚧 Warning
+You will need requirements.txt for main things to import correctly.
 
-```
-/play
-/queue
-/pause
-/resume
-/nowplaying
-/skip
-/join
-/leave
-/loop
-/volume 
-/stop
-```
+> NOTE: If you don't the bot may not function correctly
 
-## FAQ
+## 📝 Notes
+This is the updated version of this github. I will update it frequently.
 
+## 📝 [Support Server](https://discord.gg/rHksNbU8Hg)
 
-Q) Cade is offline, what should I do?
-A) Check the status channel. And report to the Admins.
+If you have any coding issues with this bot, please join and ask for help! (Or join to have fun)
 
-Q) Cade is offline on my server, but online on other servers! Now what?
-A) Cade uses a System called `Sharding`, meaning different Bot instances. However, shards may go down from time to time. Be patient, they'll come back again
+## 📸 Screenshots
 
-Q) Will there ever be Cade Premium?
-A) Chances are there, but I don't think so. Besides, who would actually pay money to get more features on a bot that's complete trash?
+<div align="left"><img src="/assets/Screenshot_1.png"></div><div align="center"><img src="/assets/Screenshot_2.png"></div><div align="right"><img src="/assets/Screenshot_3.png"></div>
 
-FAQ Will be updated every few days if needed.
+<div align="center"><img src="/assets/feature.png"></div>
 
-## Contributing
-If you feel the urge to fix my code, then feel free to create a Pull Request! Note, that we only accept *helpful* PR's. Don't expect us to merge a PR, where you just changed some descriptions, please put actual Effort in this...
+## 💨 Run the projects
 
-## License
-[MIT](https://github.com/Stift007/CadeBot/blob/main/LICENSE)
+[![Remix on Glitch](https://cdn.glitch.com/2703baf2-b643-4da7-ab91-7ee2a2d00b5b%2Fremix-button.svg)](https://glitch.com/edit/#!/import/github/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/SudhanPlayz/Discord-MusicBot)&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+[![Run on Repl.it](https://repl.it/badge/github/SudhanPlayz/Discord-MusicBot)](https://repl.it/github/SudhanPlayz/Discord-MusicBot)
+> Note: If you are hosting your bot in heroku, Please consider upgrading your dyno for running dashboard & bot simultaneously because in free dyno it'll run out of memory(as there are two workers). If you want to run only the bot, turn off the `web` dyno.
+
+## ✨ Contributors
+
+Contributions are always welcomed :D Make sure to follow [Contributing.md](/CONTRIBUTING.md)
+
+<a href="https://github.com/SudhanPlayz/Discord-MusicBot/graphs/contributors">
+  <img src="https://contributors-img.web.app/image?repo=SudhanPlayz/Discord-MusicBot" />
+</a>
+
+> **Note:** Contributions are not accepted in the master branch. If you like to contribute check out [v5 branch](https://github.com/SudhanPlayz/Discord-MusicBot/tree/v5)
+
+Made with :heart: and discord.py
